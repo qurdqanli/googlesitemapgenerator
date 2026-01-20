@@ -1,0 +1,79 @@
+{
+  "product": "WPNexus AI Bridge",
+  "version": "0.1.0",
+  "updated_at": "2026-01-18T18:15:06Z",
+  "tasks": {
+    "T00": {
+      "done": true,
+      "note": "Bridge skeleton: bootstrap, autoloader, plugin instance, activation/deactivation."
+    },
+    "T01": {
+      "done": true,
+      "note": "i18n: t('key') helper + canonical languages/en.php + .pot placeholder + textdomain loader."
+    },
+    "T02": {
+      "done": true,
+      "note": "Utilities: Paths (uploads dir), Crypto helper (token hashing/crypto primitives), logger base."
+    },
+    "T03": {
+      "done": true,
+      "note": "Admin: minimal token admin page (view/regenerate token) + admin wiring."
+    },
+    "T04": {
+      "done": true,
+      "note": "Security: Bearer token auth (hashed) + Application Password fallback + capability checks."
+    },
+    "T05": {
+      "done": true,
+      "note": "Multisite routing: X-WPNexus-Network-Site header switcher with Super Admin enforcement."
+    },
+    "T06": {
+      "done": true,
+      "note": "REST system endpoints: /health, /site, /languages (WPML/Polylang detection + fallback)."
+    },
+    "T07": {
+      "done": true,
+      "note": "Terms endpoints implemented: /terms search + /terms/upsert create/update with multilingual term language assignment (WPML/Polylang no-op fallback)."
+    },
+    "T08": {
+      "done": false
+    },
+    "T09": {
+      "done": false
+    },
+    "T10": {
+      "done": false
+    },
+    "T11": {
+      "done": false
+    },
+    "T12": {
+      "done": false
+    },
+    "T13": {
+      "done": false
+    },
+    "T14": {
+      "done": false
+    },
+    "T15": {
+      "done": false
+    },
+    "T16": {
+      "done": false
+    },
+    "T17": {
+      "done": false
+    },
+    "T18": {
+      "done": false
+    },
+    "T19": {
+      "done": false
+    },
+    "T20": {
+      "done": false
+    }
+  }
+}
+
