@@ -1,0 +1,21 @@
+<?php
+return [
+    'menu_title' => 'WPNexus AI',
+    'targets' => 'Targets',
+    'keys' => 'AI Keys',
+    'rules' => 'Rules (Auto-Pilot)',
+    'jobs' => 'Jobs',
+    'settings' => 'Settings',
+    'bulk' => 'Bulk Sync',
+    'saved' => 'Saved.',
+    'error' => 'Error: %s',
+    'target_added' => 'Target added.',
+    'target_updated' => 'Target updated.',
+    'target_deleted' => 'Target deleted.',
+    'rule_added' => 'Rule added.',
+    'rule_updated' => 'Rule updated.',
+    'rule_deleted' => 'Rule deleted.',
+    'job_enqueued' => 'Job enqueued.',
+    'bulk_enqueued' => 'Bulk jobs enqueued: %s',
+    'keys_notice_imported_with_counts' => 'Imported. Added: %s, skipped: %s',
+];
